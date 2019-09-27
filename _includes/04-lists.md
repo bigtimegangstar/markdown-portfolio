@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Fav things:
+  * Cook
+  * Tabi
+2. Dis likes:
+  - Pus
+  - Mada

@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pals found on google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pals.jpg/1024px-Pals.jpg)
